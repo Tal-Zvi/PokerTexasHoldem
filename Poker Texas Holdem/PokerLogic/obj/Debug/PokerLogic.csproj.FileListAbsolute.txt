@@ -1,0 +1,7 @@
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\bin\Debug\PokerLogic.exe.config
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\bin\Debug\PokerLogic.exe
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\bin\Debug\PokerLogic.pdb
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\obj\Debug\PokerLogic.csprojAssemblyReference.cache
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\obj\Debug\PokerLogic.csproj.CoreCompileInputs.cache
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\obj\Debug\PokerLogic.exe
+C:\Users\talzv\Google Drive\IDC\2nd Year\2nd Semester\C#\MyProjects\Poker Texas Holdem\PokerLogic\obj\Debug\PokerLogic.pdb
