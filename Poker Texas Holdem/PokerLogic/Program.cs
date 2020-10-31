@@ -11,6 +11,7 @@ namespace PokerLogic
     {
         public static void Main()
         {
+            // note
             HandCalculations calc = new HandCalculations();
             Card card1 = new Card(Card.eCardValue.A, Card.eCardSuit.Spades);
             Card card2 = new Card(Card.eCardValue.Two, Card.eCardSuit.Spades);
